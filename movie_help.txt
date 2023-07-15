@@ -1,0 +1,13 @@
+How to use Movie Recommendation Program:
+----------------------------------------
+
+1. Start typing a movie title in the top entry box
+You should see a list of movies displayed in the
+box below
+
+2. Select the movie title from this list. Use your up/down keys
+or your mouse and click to select
+
+3. Click the "Search" button.
+
+4. List of recommended movies will be displayed
